@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+.div{
+    margin-top: 26px;
+}
+
+.image section{
+    display: run-in;
+    justify-content: flex-start;
+    
+}
+
+.section style;{
+    margin-right: 30px;
+    margin-left: 30px;
+    background-color: cyan;
+    color: chartreuse;
+    width: 250px
+}
